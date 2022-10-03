@@ -1,6 +1,5 @@
-### Hi there 👋. I'm Thien Le
+### Hi there 👋. I'm Thien Le.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning python, js, and C++
 - 👯 I’m looking for a CS related position in a tech company
 - 💬 Ask me about programming advice 
